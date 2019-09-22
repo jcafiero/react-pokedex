@@ -4,7 +4,7 @@
   "description": "CS554 Lab 3 - React Pokedex",
   "private": false,
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.18.1",
     "bootstrap": "^4.3.1",
     "react": "^16.0.0",
     "react-bootstrap": "^1.0.0-beta.5",
